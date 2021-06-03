@@ -13,5 +13,5 @@
 ![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat-square&logoColor=white&color=white)<br>
 </div>  
 
-As a part of an internship, tried some User Interface. 
+As a part of a second year summer internship, tried some User Interface which is made using bootstrap. 
 
